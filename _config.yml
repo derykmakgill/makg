@@ -18,7 +18,7 @@ tagline:
 description:        "a working group of GO::DH"
 host:               127.0.0.1
 url:                ""
-baseurl:            "/mincomp"
+
 email:              mincomp@lists.globaloutlookdh.org
 
 
